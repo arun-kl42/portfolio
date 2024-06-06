@@ -1,0 +1,51 @@
+.li{
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav{
+    color: white;
+}
+.atag:hover{
+    color: #FF8732;;
+}
+.box1{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    margin: auto;
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 5),0 6px 20px 0 rgba(0, 0, 0, 5);
+}
+.box1 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    padding-top: 30px;
+}
+.crd4:hover{
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 0),0 6px 20px 0 rgb(255, 255, 0);
+}
+.crd3:hover{
+    box-shadow: 0 4px 8px 0 rgb(255, 0, 0),0 6px 20px 0 rgb(255, 0, 0);
+}
+.crd2:hover{
+    box-shadow: 0 4px 8px 0 rgb(0, 255, 0),0 6px 20px 0 rgb(0, 255, 0);
+}
+.crd1:hover{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 255),0 6px 20px 0 rgb(0, 0, 255);
+}
+.hyear{
+    font-size: 25px;
+    font-weight: bold;
+}
+.hstudy{
+    font-size: 35px;
+    font-weight: bold;
+}
+.inp{
+    width: 400px;
+    margin-left: 50px;
+    
+}
